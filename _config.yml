@@ -34,16 +34,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: HOME
-  url: /
 - title: CV
-  url: /cv/
+  url: /
 - title: Project
   url: /project/
 - title: Pubilcation
   url: /publication/
-- title: Contact
-  url: /contact/
 
 # Footer nav
 navigation_footer:
