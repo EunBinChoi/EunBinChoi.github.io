@@ -1,8 +1,7 @@
 ---
 title: 
-link: "/css/index.css"
 feature_image: "https://c4.wallpaperflare.com/wallpaper/853/61/183/butterfly-forest-wallpaper-preview.jpg"
-feature_text: "<div class='feature__text'>EUNBIN CHOI</div>" 
+feature_text: "<h2 class='feature__text'>EUNBIN CHOI</h2>" 
 #feature_text: "<h2 style='color:white; background-color:black'>EUNBIN CHOI</h2>" 
 ---
 
