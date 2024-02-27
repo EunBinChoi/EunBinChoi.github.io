@@ -1,7 +1,7 @@
 ---
 title: t
-feature_image: "https://www.trvst.world/wp-content/uploads/2023/01/butterfly-facts.jpg"
-feature_text: "<h2 style='color:white'>EUNBIN CHOI</h2>" 
+feature_image: "https://images.pixexid.com/a-blue-butterfly-flies-above-a-pond-qjgozr2q.webp?h=700&q=70"
+feature_text: "<h2 style='color:white; background-color:black'>EUNBIN CHOI</h2>" 
 ---
 
 
