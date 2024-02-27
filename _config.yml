@@ -34,10 +34,8 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: CV
   url: /
-- title: Bio
-  url: /bio/
 - title: Project
   url: /project/
 - title: Pubilcation
