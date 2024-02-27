@@ -5,8 +5,6 @@ feature_text: "<h2>EUNBIN CHOI</h2>"
 ---
 
 
-
-
 #### EDUCATION
 
 ``` Master ```
@@ -40,7 +38,7 @@ feature_text: "<h2>EUNBIN CHOI</h2>"
 .feature .container h2 {
   color: white;
   background-color: black;
-  padding: 0%;
-  margin: 0%;
+  padding: 0px;
+  margin: 0px;
 }
 </style>
