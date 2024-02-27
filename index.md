@@ -1,6 +1,6 @@
 ---
 title: 
-feature_image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Frow-trees-snow_41089644.htm&psig=AOvVaw0-E_7zDXxjAECsFCJdlF80&ust=1709120925529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjX7965y4QDFQAAAAAdAAAAABAK"
+feature_image: "https://img.freepik.com/premium-photo/zwei-verschneite-und-vereiste-weisse-baeume-der-winterlandschaft_615433-1643.jpg"
 feature_text: "# EUNBIN CHOI"
 ---
 
