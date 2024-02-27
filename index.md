@@ -1,15 +1,18 @@
 ---
 title: 
 feature_image: "https://parispeaceforum.org/app/uploads/2023/09/net-zero-space-initiative-1-1536x864.jpg"
-feature_text: "## EUNBIN CHOI"
+feature_text: "# EUNBIN CHOI"
 ---
 
 
 #### EDUCATION
 - Sungkyunkwan Univ. [ 2018.03 ~ 2020.02 ] 
-  - Dept.: 
-  - GPA:
-  - Honors:
+  - Dept.: Master of Electrical and Computer Engineering
+  - GPA: 3.95 / 4.5
+  - Honors
+    - IEEE BTS Distinguished Volunteer Award
+    - RA, TA Scholarship
+
 - Korea Univ. of Technology and Education [ 2014.03 ~ 2018.02 ]
 
 
