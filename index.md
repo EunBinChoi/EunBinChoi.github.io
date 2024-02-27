@@ -1,7 +1,7 @@
 ---
 title: 
 feature_image: "https://c4.wallpaperflare.com/wallpaper/853/61/183/butterfly-forest-wallpaper-preview.jpg"
-feature_text: "<p class="feature__text">EUNBIN CHOI</p>" 
+feature_text: "<h2>EUNBIN CHOI</h2>" 
 ---
 
 
