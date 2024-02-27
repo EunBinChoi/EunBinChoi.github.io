@@ -1,8 +1,15 @@
 ---
 title: 
 feature_image: "https://c4.wallpaperflare.com/wallpaper/853/61/183/butterfly-forest-wallpaper-preview.jpg"
-feature_text: "<h2 style='color:white; background-color:black; margin: 0px; padding: 0px'>EUNBIN CHOI</h2>" 
+feature_text: "<h2>EUNBIN CHOI</h2>" 
+#feature_text: "<h2 style='color:white; background-color:black; margin: 0px; padding: 0px'>EUNBIN CHOI</h2>" 
 ---
+
+.feature .container {
+  color: white;
+  background-color: black;
+}
+
 
 #### EDUCATION
 
