@@ -1,11 +1,8 @@
 ---
 title: 
-feature_image: "https://starwalk.space/gallery/images/sky-tonight-release-1/1140x641.jpg"
+feature_image: "https://t4.ftcdn.net/jpg/03/00/94/69/360_F_300946931_kSR84OqudEhsmBZH47HU6ud7aZIDMjEx.jpg"
 feature_text: "# EUNBIN CHOI"
 ---
-
-Hello 👋🏻 
-My name is Eunbin Choi. 
 
 
 #### EDUCATION
