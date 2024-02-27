@@ -36,8 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Education
-  url: /education/
+- title: biography
+  url: /biography/
 - title: Project
   url: /project/
 - title: Pubilcation
