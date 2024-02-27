@@ -1,7 +1,7 @@
 ---
 title: t
 feature_image: "https://www.trvst.world/wp-content/uploads/2023/01/butterfly-facts.jpg"
-feature_text: "## EUNBIN CHOI" 
+feature_text: "<h2 style='color:white'>EUNBIN CHOI</h2>" 
 ---
 
 
