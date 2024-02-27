@@ -26,7 +26,7 @@ baseurl: ''
 title: ''
 description: ''
 permalink: pretty
-logo: "/assets/logo.png"
+logo: "/assets/logo-resized.png"
 
 # Pagination
 paginate: 5
