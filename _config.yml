@@ -38,8 +38,12 @@ navigation_header:
   url: /
 - title: CV
   url: /cv/
-- title: PROJECT
+- title: Project
   url: /project/
+- title: Pubilcation
+  url: /publication/
+- title: Contact
+  url: /contact/
 
 # Footer nav
 navigation_footer:
