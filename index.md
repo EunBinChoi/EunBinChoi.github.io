@@ -1,13 +1,8 @@
 ---
-title: 
-feature_image: "https://c4.wallpaperflare.com/wallpaper/643/139/745/forest-butterfly-wallpaper-preview.jpg"
+title: EUNBIN CHOI
+feature_image: ""
 feature_text: 
 ---
-
-
-# EUNBIN CHOI 
-- email: qwertyuiop7823@gmail.com
-
 
 
 #### THESIS
