@@ -4,4 +4,6 @@ feature_image: "https://parispeaceforum.org/app/uploads/2023/09/net-zero-space-i
 feature_text: 
 ---
 
-There isn't much going on here yet, but watch this space
+## EDUCATION
+## THESIS
+## INTEREST AREA
