@@ -1,6 +1,6 @@
 ---
 title: EUNBIN CHOI
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://parispeaceforum.org/app/uploads/2023/09/net-zero-space-initiative-1-1536x864.jpg"
 feature_text: |
   ## Eunbin Choi
 ---
