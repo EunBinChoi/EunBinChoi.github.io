@@ -1,10 +1,12 @@
 ---
 title: 
-feature_image: "https://img.freepik.com/premium-photo/zwei-verschneite-und-vereiste-weisse-baeume-der-winterlandschaft_615433-1643.jpg"
+feature_image: "https://starwalk.space/gallery/images/sky-tonight-release-1/1140x641.jpg"
 feature_text: "# EUNBIN CHOI"
 ---
 
-Hello! My name is Eunbin Choi ✨ 
+Hello 👋🏻 
+My name is Eunbin Choi. 
+
 
 #### EDUCATION
 - Sungkyunkwan Univ. [ 2018.03 ~ 2020.02 ] 
