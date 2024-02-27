@@ -2,6 +2,7 @@
 title: 
 feature_image: "https://c4.wallpaperflare.com/wallpaper/643/139/745/forest-butterfly-wallpaper-preview.jpg"
 feature_text: "# EUNBIN CHOI"
+feature_color: "white"
 ---
 
 
