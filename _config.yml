@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Bio
-  url: /biography/
+  url: /bio/
 - title: Project
   url: /project/
 - title: Pubilcation
