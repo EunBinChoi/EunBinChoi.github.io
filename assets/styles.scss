@@ -1,6 +1,13 @@
+
+.header .container .logo img {
+    color: silver;
+}
+
 .feature .container h2 {
     color: white;
     background-color: silver;
     padding: 0px;
     margin: 0px;
-  }
+}
+
+@import "alembic";
