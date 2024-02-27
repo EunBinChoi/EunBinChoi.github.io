@@ -1,5 +1,5 @@
 ---
-title: Education
+title:
 ---
 
 #### EDUCATION
@@ -12,8 +12,8 @@ title: Education
     - <a href="https://youtu.be/Ype6slgs8dQ">System</a>
     - <a href="https://github.com/EunBinChoi/stabilization-drone-projected-image-with-sensors-master">Code</a>
     - Demo 
-        - <p>stabilization-off<a href=""></a></p>
-        - <p>stabilization-on<a href=""></a></p>
+        - <p>stabilization-off<a href="https://youtu.be/4A9rHYnviM4"></a></p>
+        - <p>stabilization-on<a href="https://youtu.be/ukIrXobmIYM"></a></p>
   
   - Honors: IEEE BTS Distinguished Volunteer Award, RA/TA Scholarship 
 

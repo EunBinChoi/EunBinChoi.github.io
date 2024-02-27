@@ -26,7 +26,7 @@ baseurl: ''
 title: ''
 description: ''
 permalink: pretty
-logo: "https://i.pinimg.com/564x/dc/83/91/dc83918b99766beefaf62a063d87ec06.jpg"
+logo: "/assets/logo.png"
 
 # Pagination
 paginate: 5

@@ -5,23 +5,7 @@ feature_text: "# EUNBIN CHOI"
 ---
 
 
-#### EDUCATION
-- Sungkyunkwan Univ. [ 2018.03 ~ 2020.02 ] 
-  - Dept.: Master of Electrical and Computer Engineering
-  - GPA: 3.95 / 4.5
-  
-  - A Stabilization of Drone-Projected Image based on Flight Information
-    - <a href="https://drive.google.com/file/d/1qXox6GpSvR-LvTYYBrsfzgkuTNLBtAkJ/view?pli=1">Paper</a>
-    - System:
-    - Code:
-    - Demo:
-  
-  - Honors: IEEE BTS Distinguished Volunteer Award, RA/TA Scholarship 
 
-  
-- Korea Univ. of Technology and Education [ 2014.03 ~ 2018.02 ]
-  - Dept.: Bachelor of Computer Science and Engineering
-  - GPA: 4.11 / 4.5 (summa cum laude)
 
 
 
