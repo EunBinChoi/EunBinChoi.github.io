@@ -26,7 +26,11 @@ baseurl: ''
 title: ''
 description: ''
 permalink: pretty
+<<<<<<< HEAD
 logo: ''
+=======
+logo: <i class="fa-sharp fa-solid fa-graduation-cap"></i>
+>>>>>>> 49df3a91661f2f734526b5d1a219a69a723c23e5
 
 # Pagination
 paginate: 5
