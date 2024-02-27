@@ -4,6 +4,12 @@ feature_image: "https://parispeaceforum.org/app/uploads/2023/09/net-zero-space-i
 feature_text: 
 ---
 
-## EDUCATION
-## THESIS
-## INTEREST AREA
+#### EDUCATION
+- Sungkyunkwan Univ. [2018.03 ~ 2020.02] 
+  - Dept.: 
+  - GPA:
+  - Honors:
+- Korea Univ. of Technology and Education
+
+#### THESIS
+#### INTEREST AREA
